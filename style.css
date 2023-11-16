@@ -25,7 +25,19 @@ h2 {
   font-family: "Anonymous Pro", sans-serif;
   font-size: 26px;
 }
+h3 {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 26px;
+  color: orange;
 
+}
+
+h4 {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 26px;
+  color: orange;
+
+}
 main {
   display: flex;
   padding-top: 25px;
